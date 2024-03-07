@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Software developer**
 
-- 💬 Ask me about **Core Java, MySQL, MERN Stack.**
+- 💬 Ask me about **Core Java, MySQL, Html, Css, JavaScript, ReactJS, NodeJS, ExpressJS, MongoDB.**
 
 - 📫 How to reach me **nithishkumar852001@gmail.com**
 
